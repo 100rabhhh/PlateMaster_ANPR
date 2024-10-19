@@ -51,5 +51,8 @@
   <li>🅿️ <b>Parking Systems:</b> Recognize vehicle plates for entry and exit logging.</li>
   <li>🚧 <b>Toll Booth Automation:</b> Identify vehicle plates for automatic toll collection.</li>
 </ul>
-
+<h2>👥 Credits</h2>
+    <p>Built by <a href="https://github.com/100rabhhh">Sourabh Jha</a></p>
+    <h2>📄 License</h2>
+    <p>This project is licensed under the MIT License.</p>
 <p align="center">Happy Coding! 💻</p>
